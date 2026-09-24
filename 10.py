@@ -1,0 +1,10 @@
+mahsulot = input("Mahsulot kiriting: ")
+narx = float(input("Narxini kiriting: "))
+soni = int(input("Sonini kiriting: "))
+
+print("\n\n----------CHEK----------")
+print("Mahsulot: ", mahsulot)
+print("Narxi: ", narx)
+print("Soni: ", soni)
+print("Jami: ", narx*soni)
+print("------------------------")
